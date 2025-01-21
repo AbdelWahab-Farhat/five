@@ -1,0 +1,15 @@
+/Users/abdelwahabfarhat/Desktop/five/AdvancedApp/bin/Debug/net9.0/AdvancedApp
+/Users/abdelwahabfarhat/Desktop/five/AdvancedApp/bin/Debug/net9.0/AdvancedApp.deps.json
+/Users/abdelwahabfarhat/Desktop/five/AdvancedApp/bin/Debug/net9.0/AdvancedApp.runtimeconfig.json
+/Users/abdelwahabfarhat/Desktop/five/AdvancedApp/bin/Debug/net9.0/AdvancedApp.dll
+/Users/abdelwahabfarhat/Desktop/five/AdvancedApp/bin/Debug/net9.0/AdvancedApp.pdb
+/Users/abdelwahabfarhat/Desktop/five/AdvancedApp/obj/Debug/net9.0/AdvancedApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdelwahabfarhat/Desktop/five/AdvancedApp/obj/Debug/net9.0/AdvancedApp.AssemblyInfoInputs.cache
+/Users/abdelwahabfarhat/Desktop/five/AdvancedApp/obj/Debug/net9.0/AdvancedApp.AssemblyInfo.cs
+/Users/abdelwahabfarhat/Desktop/five/AdvancedApp/obj/Debug/net9.0/AdvancedApp.csproj.CoreCompileInputs.cache
+/Users/abdelwahabfarhat/Desktop/five/AdvancedApp/obj/Debug/net9.0/AdvancedApp.sourcelink.json
+/Users/abdelwahabfarhat/Desktop/five/AdvancedApp/obj/Debug/net9.0/AdvancedApp.dll
+/Users/abdelwahabfarhat/Desktop/five/AdvancedApp/obj/Debug/net9.0/refint/AdvancedApp.dll
+/Users/abdelwahabfarhat/Desktop/five/AdvancedApp/obj/Debug/net9.0/AdvancedApp.pdb
+/Users/abdelwahabfarhat/Desktop/five/AdvancedApp/obj/Debug/net9.0/AdvancedApp.genruntimeconfig.cache
+/Users/abdelwahabfarhat/Desktop/five/AdvancedApp/obj/Debug/net9.0/ref/AdvancedApp.dll
